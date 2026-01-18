@@ -6,9 +6,9 @@
 <table width="100%">
   <tr>
     <td width="30%" align="center" valign="middle">
-      <img src="https://github.com/iamjihn.png" width="200px" style="border-radius: 50%; border: 5px solid #001f3f;" />
+      <img src="https://github.com/iamjihn.png" width="300px" style="border-radius: 50%; border: 5px solid #001f3f;" />
       <br><br>
-      <i><b>Muhammad Zihni Fawwasb<b><i> <br>
+      <i><b>Muhammad Zihni Fawwas</b></i> <br>
       <b>Computer Engineering Student</b><br>
       📍 Politeknik Caltex Riau
     </td>
