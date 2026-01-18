@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="![Image](https://github.com/user-attachments/assets/5644a316-5d9e-44fe-814c-87dcab2e70de)">
+  <a href="![Image](IMG_1402.JPG)">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Web+Developer;Data+Science+Enthusiast;Coffee+Addict+loop..." alt="Typing SVG" />
   </a>
 </p>
