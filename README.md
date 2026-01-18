@@ -38,15 +38,15 @@
 
 ---
 
-### 📈 GitHub Stats & Connect
+### 📝 Connect With Me!
 <table width="100%">
   <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=iamjihn&show_icons=true&theme=dark&bg_color=001f3f&title_color=ffffff&text_color=ffffff&hide_border=true" width="100%" />
-    </td>
     <td width="50%">
       <h4 align="center">Connect with me</h4>
       <p align="center">
         <a href="mailto:zihnifawwaz386@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><br>
         <a href="https://wa.me/6282250780659"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a><br>
-        <a href="https://
+        <a href="https://instagram.com/zihnifawwassss_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+    </td>
+    </tr>
