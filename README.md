@@ -1,12 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=001f3f&height=150&section=header&text=Muhammad%20Zihni%20Fawwas&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <a href="https://github.com/iamjihn">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Web+Developer;Data+Science+Enthusiast;Coffee+Addict+loop..." alt="Typing SVG" />
+  </a>
 </p>
-
 <table width="100%">
   <tr>
     <td width="30%" align="center" valign="middle">
       <img src="https://github.com/iamjihn.png" width="200px" style="border-radius: 50%; border: 5px solid #001f3f;" />
       <br><br>
+      <i><b>Muhammad Zihni Fawwasb<b><i> <br>
       <b>Computer Engineering Student</b><br>
       📍 Politeknik Caltex Riau
     </td>
