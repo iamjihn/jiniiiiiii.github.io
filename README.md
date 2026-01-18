@@ -1,12 +1,11 @@
 <p align="center">
-  <a href="![Image](IMG_1402.JPG)">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Web+Developer;Data+Science+Enthusiast;Coffee+Addict+loop..." alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=001f3f&center=true&vCenter=true&width=500&lines=Muhammad+Zihni+Fawwas;Computer+Engineering+Student;Web+Developer;Data+Science+Enthusiast" alt="Typing SVG" />
 </p>
+
 <table width="100%">
   <tr>
     <td width="30%" align="center" valign="middle">
-      <img src="https://github.com/iamjihn.png" width="300px" style="border-radius: 50%; border: 5px solid #001f3f;" />
+      <img src="IMG_1402.JPG" width="250px" style="border-radius: 50%; border: 5px solid #001f3f;" />
       <br><br>
       <i><b>Muhammad Zihni Fawwas</b></i> <br>
       <b>Computer Engineering Student</b><br>
@@ -39,8 +38,8 @@
 ---
 
 ### 📝 Connect With Me!
-    
-  <a href="mailto:email-zihnifawwaz386@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p align="left">
+  <a href="mailto:zihnifawwaz386@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://wa.me/6282250780659"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://instagram.com/zihnifawwassss_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
@@ -48,4 +47,3 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it." alt="Quote" />
 </p>
-   
